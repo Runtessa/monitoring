@@ -1,7 +1,7 @@
 {
   "name": "idp-monitoring-service",
   "version": "1.1.0",
-  "description": "Standalone monitoring ingest service for IDP Core",
+  "description": "Standalone monitoring ingest service for Runtessa Core",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -23,7 +23,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlirezaDadrass/Idp.git"
+    "url": "git+https://github.com/Runtessa/monitoring.git"
   },
   "engines": {
     "node": ">=22.13.0 <23"
